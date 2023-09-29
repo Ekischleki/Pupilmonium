@@ -11,4 +11,10 @@
     <ProjectReference Include="..\PupilmoniumFights\PupilmoniumFights.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="recourses\translation\Translation_en.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
